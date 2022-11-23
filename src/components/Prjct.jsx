@@ -1,6 +1,5 @@
 import React from 'react'
-import pn from "../images/prj1.jpg";
-import pm from "../images/prj2.jpg";
+
 
 const Prjct = (props) => {
   return (
