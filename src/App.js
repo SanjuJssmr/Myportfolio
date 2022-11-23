@@ -1,6 +1,4 @@
 import Frontpg from "./components/Frontpg";
-
-
 import About from "./components/About";
 import Services from "./components/Services";
 import Projects from "./components/Projects";
