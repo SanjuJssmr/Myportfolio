@@ -1,5 +1,5 @@
 import React from 'react'
-import pn from '../images/p1.png'
+
 
 const Card = (props) => {
   return (
