@@ -1,6 +1,6 @@
 import Frontpg from "./components/Frontpg";
 
-import '@ionic/react/css/core.css';
+
 import About from "./components/About";
 import Services from "./components/Services";
 import Projects from "./components/Projects";
