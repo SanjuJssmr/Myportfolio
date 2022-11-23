@@ -10,29 +10,25 @@ import { BsGithub } from "react-icons/bs";
 const Navbar = () => {
 
   
-
-   
-
-
   return (
     <>
       <nav className="w-full  top-0 left-0   ">
         <div className="container mx-auto  flex sm:p-5  justify-center items-center">
           <ul className="  flex text-[#92e158]  gap-10 font-bold text-sm uppercase ">
             <li className="hover:text-[#effae4]">
-              <a href="#">{<FaLinkedinIn />}</a>
+              <a href="https://www.linkedin.com/in/raveendhar-santhanam-8aba58201">{<FaLinkedinIn />}</a>
             </li>
             <li className="hover:text-[#effae4]">
-              <a href="#">{<FiInstagram />}</a>
+              <a href="https://www.linkedin.com/in/raveendhar-santhanam-8aba58201">{<FiInstagram />}</a>
             </li>
             <li className="hover:text-[#effae4]">
-              <a href="#">{<TfiTwitterAlt />}</a>
+              <a href="https://www.linkedin.com/in/raveendhar-santhanam-8aba58201">{<TfiTwitterAlt />}</a>
             </li>
             <li className="hover:text-[#effae4]">
-              <a href="#">{<FaYoutube />}</a>
+              <a href="https://www.youtube.com/channel/UC028mpolhSfIad_OfpCk27w">{<FaYoutube />}</a>
             </li>
             <li className="hover:text-[#effae4]">
-              <a href="#">{<BsGithub />}</a>
+              <a href="https://github.com/SanjuJssmr">{<BsGithub />}</a>
             </li>
           </ul>
         </div>
