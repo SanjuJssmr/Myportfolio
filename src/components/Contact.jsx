@@ -1,6 +1,6 @@
 import React from 'react'
 import { BsLinkedin } from 'react-icons/bs';
-import { FaLinkedinIn } from 'react-icons/fa';
+
 import { RiContactsLine } from "react-icons/ri";
 
 const Contact = () => {
