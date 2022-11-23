@@ -1,7 +1,7 @@
 import React from 'react'
 import Card from './Card';
 import a from '../images/p1.png'
-import b from '../images/p2.png'
+
 import { RiServiceLine } from "react-icons/ri";
 import c from "../images/p3.png";
 import d from "../images/p4.png";
