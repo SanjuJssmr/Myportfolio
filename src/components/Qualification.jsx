@@ -1,6 +1,6 @@
 import React from 'react'
 import { BsCalendarCheckFill } from 'react-icons/bs'
-import { FaGraduationCap, FcGraduationCap } from "react-icons/fa";
+import { FaGraduationCap } from "react-icons/fa";
 
 const Qualification = () => {
     return (
