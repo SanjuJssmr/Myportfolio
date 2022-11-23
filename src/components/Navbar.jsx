@@ -1,9 +1,6 @@
 import React from 'react'
-import { useRef } from 'react';
-import { FaBars, FaTimes } from 'react-icons/fa'
-import img from '../images/img1.png'
-import About from './About';
-import Services from './Services';
+
+
 import { FaLinkedinIn } from "react-icons/fa";
 import { FiInstagram } from "react-icons/fi";
 import { TfiTwitterAlt } from "react-icons/tfi";
