@@ -16,7 +16,7 @@ const Card = (props) => {
         obcaecati aut nobis magnam eveniet nostrum aliquid eius iusto.
       </p>
       <a
-        href="#"
+        href="https://reactjs.org/"
         className="flex items-center justify-center text-gray-50 font-bold hover:opacity-80 opacity-50 bg-[#1d2615] ml-5 mr-5 p-2 rounded-lg"
       >
         Read More
